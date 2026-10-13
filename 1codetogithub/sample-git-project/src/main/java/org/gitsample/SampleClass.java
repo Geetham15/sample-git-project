@@ -9,3 +9,6 @@ public class SampleClass {
 	}
 
 }
+
+//followed to learned eclipse project to github
+//https://www.youtube.com/watch?v=QvwDbf3kalw
